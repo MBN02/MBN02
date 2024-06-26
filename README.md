@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohan Kumar BN</h1>
-<h3 align="center">I'm a passionate Site Reliability Engineer</h3>
 
 
 ### 🙋‍♂️ About Me 
@@ -16,26 +15,12 @@
 ⚡ Fun fact I love reading books and go to the GYM very often
 
 ---
-<p align="center">
 
 📫 Reach out on:
   
   - 📘 Linkedin : https://www.linkedin.com/in/mohan-kumar-bn-11b66595/
   
   - 🥇 Credly: https://www.credly.com/users/mohan-kumar-bn/badges
-
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://komarev.com/ghpvc/?username=mbn02&color=green)
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/mbn02/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohan Kumar BN's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mbn02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 ---
 ### 🦾 Tech Stack 📚
@@ -140,3 +125,10 @@
 <a href = "https://www.youtube.com/channel/UCvKrmOUWDs1sk82_iXM_0-g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
+
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=mbn02&color=green)
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
