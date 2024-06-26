@@ -2,14 +2,11 @@
 <h3 align="center">I'm a passionate Site Reliability Engineer</h3>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://komarev.com/ghpvc/?username=mbn02&color=green)
-
-### 🙋‍♂️ About Me
+### 🙋‍♂️ About Me 
 
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="300">
 
-
+---
 👨‍💻 I'm working as SRE Engineer at Henkel.
 
 🔭 I have interest on Dev{Sec}Ops & Cloud Native projects.
@@ -18,7 +15,7 @@
 
 ⚡ Fun fact I love reading books and go to the GYM very often
 
-
+---
 <p align="center">
 
 📫 Reach out on:
@@ -28,6 +25,9 @@
   - 🥇 Credly: https://www.credly.com/users/mohan-kumar-bn/badges
 
 ---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=mbn02&color=green)
+
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
@@ -37,14 +37,7 @@
     </a>
 </p>
 
-### 📊 My Github stats
-
-
-<p align="center">
-  
-![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mbn02)
-
-
+---
 ### 🦾 Tech Stack 📚
 
 #### Cloud Providers
@@ -128,7 +121,16 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mbn02&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mbn02&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mbn02&theme=github_dark&utcOffset=8)
-    
+
+
+---
+### 📊 My Github stats
+
+
+<p align="center">
+  
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mbn02)
+---
 ### Connect with me:
 <p align="left">
 
