@@ -5,9 +5,9 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://komarev.com/ghpvc/?username=mbn02&color=green)
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
-<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="300">
+<img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="300">
 
 
 👨‍💻 I'm working as SRE Engineer at Henkel.
@@ -37,7 +37,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+### 📊 My Github stats
 
 
 <p align="center">
@@ -122,9 +122,19 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="opa" width="100" height="100"/> 
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seifrajhi&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seifrajhi&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seifrajhi&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seifrajhi&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seifrajhi&theme=github_dark&utcOffset=8)
-     
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbn02&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbn02&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mbn02&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mbn02&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mbn02&theme=github_dark&utcOffset=8)
+    
+### Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/mohan-kumar-bn-11b66595/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/MoshusTech"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/moshustech/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCvKrmOUWDs1sk82_iXM_0-g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
