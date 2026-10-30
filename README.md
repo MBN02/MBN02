@@ -6,7 +6,7 @@
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="300">
 
 ---
-👨‍💻 I'm working as SRE Engineer at Henkel.
+👨‍💻 I'm working as Platform Engineer at Henkel.
 
 🔭 I have interest on Dev{Sec}Ops & Cloud Native projects.
 
